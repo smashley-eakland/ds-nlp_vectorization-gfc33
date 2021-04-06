@@ -1,3 +1,3 @@
-# ds-natural_language_pre-processing
+# ds-nlp_vectorization
 
-This repository describes the elements of natural language pre-processing and its implementation in Python with `nltk` and `sklearn`. It was created with love by the Flatiron School.
+This repository describes stemming, lemmatizing, and vectorizing as final pre-processing steps in Python NLP tasks. It was created with love by the Flatiron School.
